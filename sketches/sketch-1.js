@@ -2,7 +2,7 @@ let globalData = [];
 const diameter = 600;
 
 function preload() {
-  loadJSON('temp.json', getData)
+  loadJSON('data/maxtemp/temp.json', getData)
 }
 
 function setup() {
