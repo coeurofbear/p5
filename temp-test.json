@@ -1,0 +1,32 @@
+{
+   "queryCost":118,
+   "latitude":52.516,
+   "longitude":13.3769,
+   "resolvedAddress":"Berlin, Deutschland",
+   "address":"berlin",
+   "timezone":"Europe/Berlin",
+   "tzoffset":1.0,
+   "days":[
+      {"tempmax":0.0},
+      {"tempmax":1.0},
+      {"tempmax":2.0},
+      {"tempmax":3.0},
+      {"tempmax":4.0},
+      {"tempmax":5.0},
+      {"tempmax":6.0},
+      {"tempmax":7.0},
+      {"tempmax":8.0},
+      {"tempmax":9.0},
+      {"tempmax":10.0},
+      {"tempmax":11.0},
+      {"tempmax":12.0},
+      {"tempmax":13.0},
+      {"tempmax":14.0},
+      {"tempmax":15.0},
+      {"tempmax":16.0},
+      {"tempmax":17.0},
+      {"tempmax":18.0},
+      {"tempmax":19.0},
+      {"tempmax":20.0}
+   ]
+}
