@@ -1,24 +1,32 @@
-let globalData = [];
+let globalDataBerlin = [];
+let globalDataSantiago = [];
+let distanceBerlin = 3.75;
+let distanceSantiago = 1.35;
 const diameter = 600;
 
 function preload() {
-  loadJSON('data/maxtemp/temp.json', getData)
+  loadJSON('data/maxtemp/temp.json', getDataBerlin)
+  loadJSON('data/maxtemp/temp-santiago.json', getDataSantiago)
 }
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  // createCanvas(windowHeight,windowWidth);
   // createCanvas(1400, windowHeight);
   noStroke();
 }
 
-const getData = (data) => {
-  globalData = data.days.map(v=> v.tempmax*10)
+const getDataBerlin = (data) => {
+  globalDataBerlin = data.days.map(v=> v.tempmax*10)
+}
+const getDataSantiago = (data) => {
+  globalDataSantiago = data.days.map(v=> v.tempmax*10)
 }
 
 function draw() {
-  // background(0, 160, 127, 100);
   background(174, 218, 205);
-  pieChart(diameter, globalData)
+  pieChart(diameter, globalDataBerlin, distanceBerlin)
+  pieChart(diameter, globalDataSantiago, distanceSantiago)
 }
 
 function degreeCalcs(data) {
@@ -35,20 +43,26 @@ function degreeCalcs(data) {
   return data.map(v=> v*degreeValue)
 }
 
-function pieChart(diameter, data) {
-  // noLoop();
-  translate(width / 2, height / 2);
+function pieChart(diameter, data, position) {
+  push()
+  noLoop();
+
+  // rotation
+  translate(width / position, height /2);
   rotate(270*(PI/180));
-  translate(- (width / 2), -(height / 2));
-  // let degreeCalc = degreeCalcs(data)
+  translate(- (width / position), -(height /2));
+  // rotation
+
   let angleProportion = 360/data.length
+  // let degreeCalc = degreeCalcs(data)
   let lastAngle = 0;
+  const highestValue = Math.max(...data)
+  const lowestValue = Math.min(...data)
   for (let i = 0; i < data.length; i++) {
-    // let color = map(data[i], 0, 200, 0, 255);
-    let color = map(data[i], 0, 209, 0, 255);
+    let color = map(data[i], lowestValue, highestValue, 0, 255);
     fill(90, color, 150);
     arc(
-      width/2,
+      width/position,
       height/2,
       diameter,
       diameter,
@@ -57,4 +71,5 @@ function pieChart(diameter, data) {
       );
       lastAngle += radians(angleProportion);
   }
+  pop()
 }
