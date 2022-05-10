@@ -1,0 +1,801 @@
+{
+  "AsistenciasPleno": {
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "-xmlns": "http://tempuri.org/",
+    "script": {
+      "-self-closing": "true"
+    },
+    "AsistenciaPleno": [
+      {
+        "SesionID": "4079",
+        "NumeroSesion": "Sesión N° 22",
+        "Fecha": "2021-09-27T11:10:00",
+        "TotalAsistentes": "154",
+        "TotalPresencial": "56",
+        "TotalRemotos": "98",
+        "TotalAusentes": "1",
+        "Asistencia": {
+          "Convencional": [
+            {
+              "Nombre": "Abarca Riveros, Jorge",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Abarca González, Damaris",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Achurra Díaz, Ignacio",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Aguilera Hey, Tiare",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Alvarado Jorquera, Gloria",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Alvarez Zenteno, Rodrigo",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Alvarez Pinto, Julio",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Alvez Marín, Amaya",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Ampuero Barrientos, Adriana",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Andrade León, Cristóbal",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Antilef Ñanco, Victorino",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Arancibia Reyes, Jorge",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Arauna Urrutia, Francisca",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Arellano Ortega, Marco",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Arrau García-Huidobro, Martín",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Atria Lemaitre, Fernando",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Bacian Delgado, Wilfredo",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:30"
+            },
+            {
+              "Nombre": "Baradit Morales, Jorge",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Baranda Ferrán, Benito",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Barceló Amado, Luis",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Barraza Gómez, Marcos",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Bassa Mercado, Jaime",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:42"
+            },
+            {
+              "Nombre": "Botto Salinas, Miguel Ángel",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Bown Sepúlveda, Carol",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Bravo Silva, Daniel",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Caamaño Rojas, Francisco",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Caiguan Ancapan, Alexis",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Calvo Muñoz, Carlos",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Cancino Meneses, Adriana",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Cantuarias Rubio, Rocío",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Carrillo Vidal, Alondra",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Castillo Boilet, María Trinidad",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Castillo Vigouroux, Eduardo",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Castro Gutiérrez, Claudia",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Catrileo Arias, Rosa",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Celedón Fernández, Roberto",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Celis Montt, Raúl",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Céspedes Fernández, Lorena",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Chahín Valenzuela, Fuad",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Chinga Ferreira, Eric",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Cozzi Elzo, Ruggero",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:40"
+            },
+            {
+              "Nombre": "Cretton Rebolledo, Eduardo",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Cruz Carrasco, Andrés",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Cubillos Sigall, Marcela",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Daza Carrasco, Mauricio",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "De la Maza Bañados, Bernardo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Delgado Vergara, Aurora",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Domínguez Donoso, Gaspar",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Dorador Ortiz, Cristina",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Fernández Chadwick, Patricio",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Flores Carlos, Alejandra",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Fontaine Talavera, Bernardo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Fuchslocher Baeza, Javier",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Gallardo Prado, Bessy",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Galleguillos Aymani, Félix",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Garín González, Renato",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Giustinianovich Campos, Elisa",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Godoy Monardez, Isabel",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Gómez Castro, Claudio",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Gómez Sánchez, Yarela",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "González Araya, Dayyana",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "González Calderón, Lidia",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Grandón Caro, Giovanna",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Grandón González, Paola",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Gutiérrez Gálvez, Hugo",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Harboe Bascuñán, Felipe",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Henríquez Carreño, Natalia",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Hoppe Espoz, Vanessa",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Hube Portus, Constanza",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Hurtado Olave, Ruth",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Hurtado Roco, Maximiliano",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Jiménez Cáceres, Luis",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Jofré Cáceres, Alvaro",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Jurgensen Caesar, Harry",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Labbé Salazar, Bastián",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Labra Besserer, Patricia",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Labraña Pino, Elsa",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Laibe Saez, Tomás",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Larraín Matte, Hernán",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Letelier Cortés, Margarita",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Linconao Huircapán, Francisca",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Llanquileo Pilquimán, Natividad",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Logan Soto, Rodrigo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Loncon Antileo, Elisa",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:42"
+            },
+            {
+              "Nombre": "Madriaga Flores, Tania",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Mamani Mamani, Isabella",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Marinovic Vial, Teresa",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Martin Bravo, Juan José",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Martínez Llancapan, Helmuth",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Mayol Bouchon, Luis",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Mella Escobar, Jeniffer",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Mena Villar, Felipe",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Meneses Palma, Janis",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Millabur Ñancuil, Adolfo",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Miranda Arce, Valentina",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Monckeberg Bruner, Cristian",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Montealegre Navarro, Katerine",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Montero Allende, Ricardo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Moreno Echeverría, Alfredo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Muñoz Leiva, Pedro",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Namor Kong, Guillermo",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Navarrete Arratia, Geoconda",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Neumann Bertin, Ricardo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Núñez Gangas, Nicolás",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Olivares Miranda, Ivanna",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Orellana Cuellar, Matías",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Ossandón Lira, Manuel",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Oyarzún Solis, María José",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Pérez Espina, Alejandra",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Pinto Solari, Malucha",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Politzer Kerekes, Patricia",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Portilla Barrios, Ericka",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Pustilnick Arditi, Tammy",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Quinteros Cáceres, María Elisa",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Rebolledo Aguirre, Bárbara",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Reyes Painequeo, María Ramona",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Rivera Bigas, Pollyana",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Rivera Iribarren, María Magdalena",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Roa Cadin, Giovanna",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Rojas Vade, Rodrigo",
+              "Asistencia": "NO ASISTE",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Royo Letelier, Manuela",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Saldaña Muñoz, Alvin",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Salinas Manfredini, Fernando",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "San Juan Standen, Constanza",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:39"
+            },
+            {
+              "Nombre": "Sánchez Muñoz, Beatriz",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Schonhaut Soto, Constanza",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Sepúlveda Hales, Bárbara",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Sepúlveda Sepúlveda, Carolina",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "14:01"
+            },
+            {
+              "Nombre": "Serey Jiménez, Mariela",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Silva Mora, Luciano",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Squella Narducci, Agustín",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Stingo Camus, Daniel",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Tepper Kolossa, María Angélica",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Tirado Soto, Fernando",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:15"
+            },
+            {
+              "Nombre": "Toloza Fernández, Pablo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Ubilla Pérez, María Cecilia",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Uribe Araya, César",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Urrutia Herrera, Tatiana",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Valenzuela Rio, Paulina",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Valenzuela Maass, César",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Vallejos Dávila, Loreto",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Vargas Vidal, Mario",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Vargas López, Margarita",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:21"
+            },
+            {
+              "Nombre": "Vega Campusano, Roberto",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Velásquez Núñez, Hernán",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Veloso Muñoz, Paulina",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Vergara Riquelme, Lisette",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Vidal Hernández, Loreto",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Videla Osorio, Carolina",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Viera Álvarez, Christian",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Vilches Fuenzalida, Carolina",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Villena Narbona, Ingrid",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Woldarsky González, Manuel",
+              "Asistencia": "ASISTE",
+              "HoraIngreso": "11:10"
+            },
+            {
+              "Nombre": "Zárate Zárate, Camila",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            },
+            {
+              "Nombre": "Zúñiga Jory, Luis Arturo",
+              "Asistencia": "ASISTE REMOTO",
+              "HoraIngreso": "-"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "#omit-xml-declaration": "yes"
+}
