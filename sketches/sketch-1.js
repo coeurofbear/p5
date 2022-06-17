@@ -25,6 +25,7 @@ const getDataSantiago = (data) => {
 
 function draw() {
   background(174, 218, 205);
+  // ellipseMode(CENTER);
   pieChart(diameter, globalDataBerlin, distanceBerlin)
   pieChart(diameter, globalDataSantiago, distanceSantiago)
 }
@@ -44,13 +45,13 @@ function degreeCalcs(data) {
 }
 
 function pieChart(diameter, data, position) {
-  push()
-  noLoop();
+  // push()
+  // noLoop();
 
   // rotation
-  translate(width / position, height /2);
-  rotate(270*(PI/180));
-  translate(- (width / position), -(height /2));
+    // translate(width / position, height /2);
+    // rotate(270*(PI/180));
+    // translate(- (width / position), -(height /2));
   // rotation
 
   let angleProportion = 360/data.length
@@ -71,5 +72,5 @@ function pieChart(diameter, data, position) {
       );
       lastAngle += radians(angleProportion);
   }
-  pop()
+  // pop()
 }

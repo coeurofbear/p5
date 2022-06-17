@@ -8,14 +8,14 @@ function setup() {
 }
 
 function draw () {
-  // noLoop()
+  noLoop()
   // for (let i = 0; i < 25; i++) {
   let protection = 0;
-  while (circles.length < 200) {
+  while (circles.length < 4000) {
     let circle = {
       x: random(width),
       y: random(height),
-      r: random(4,15),
+      r: random(4,45),
       c: color(random(0,255), random(0,255), random(0,255), 200)
     }
 

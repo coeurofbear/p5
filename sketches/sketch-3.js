@@ -1,9 +1,11 @@
 let globalData;
+
 function preload() {
   loadJSON('data/convencion/asistencia.json', getData)
 }
 function setup() {
   createCanvas(900, 900);
+  background(220);
   noStroke();
   noLoop();
 }
@@ -12,19 +14,17 @@ const getData = (data) => {
 }
 
 function draw() {
-  background(220);
-  console.log(globalData.length);
   for (let i = 0; i < globalData.length; i++) {
   let asistencia = globalData[i].TotalPresencial
   let asistenciaRemota = globalData[i].TotalRemotos
   let inasistencia = globalData[i].TotalAusentes
-    drawCircles(90, asistencia, 5);
-    drawCircles(70, asistenciaRemota, 2);
-    drawCircles(30, inasistencia, 10);
+    // drawCircles(100, asistencia, 2, 200, i);
+    drawCircles(200, asistenciaRemota, 2, 400, i);
+    // drawCircles(300, inasistencia, 3, 600, i);
   }
 }
 
-function drawCircles(ra, circles, size, position) {
+function drawCircles(ra, circles, size) {
   push()
   let angle = 0;
   //  move 0,0 to the center of the screen
@@ -44,5 +44,5 @@ function drawCircles(ra, circles, size, position) {
     //increase angle by step size
     angle += TWO_PI/circles;
   }
- pop();
+  pop();  
 }
